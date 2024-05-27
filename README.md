@@ -1,8 +1,3 @@
-# React + Vite
+Project for createing fullstack api with website. The purpose is so the user, especially as admin can manage the product for their business. This project use React JS as Website development tools and Java Spring as API framework. I provide jar file if anyone want to test this project. thanks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+API link = https://github.com/SayyidNurCahyo/store-product-management-API.git
